@@ -284,8 +284,12 @@ input {
     }
 
     .main-section {
-        padding-top: 250px;
+        padding-top: 30px;
         padding-bottom: 200px;
+    }
+
+    .main-title {
+        padding-top: 185px;
     }
 
     .form-success {
