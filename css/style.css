@@ -208,7 +208,7 @@ input {
     }
 
     .form-box {
-        height: auto;
+        height: auto!important;
     }
 
     .form-box__title {
